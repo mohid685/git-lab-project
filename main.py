@@ -7,6 +7,8 @@ student_name = "Mohid"
 # Store the student's roll number
 roll_number = "bscs23092"
 
+course_name = "ANN & DL"
+
 # Display a welcome message
 print("================================")
 print("   Git & GitHub Lab Project")
