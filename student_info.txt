@@ -1,0 +1,16 @@
+# Copy the following text into student_info.txt
+
+Git & GitHub Lab
+
+Student Name: mohid
+Roll Number: bscs23092
+Course: Data Science
+Lab: Git & GitHub
+
+Learning Objectives:
+1. Create a Git repository.
+2. Track files using Git.
+3. Stage files using git add.
+4. Save changes using git commit.
+5. Upload changes using git push.
+6. Download changes using git pull.
